@@ -1,0 +1,3 @@
+git config --global user.name "uma madane"
+git config --global user.email "uma241196@gmail.com"
+cat .git/config
